@@ -1,0 +1,24 @@
+{
+  "name": "vue_basics_4-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arojas32/Vue_Basics_4-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arojas32/Vue_Basics_4-5/issues"
+  },
+  "homepage": "https://github.com/arojas32/Vue_Basics_4-5#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-plugin-vue": "^9.6.0"
+  }
+}
